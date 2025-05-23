@@ -11,21 +11,27 @@
 📦 case-in-2023/
 │
 ├── 📂 materials/                 # Материалы и документы
-│   ├── risk_data.pdf
-│   └── company_structure.pdf
+│   ├── Макет презентации ОК 2023.pptx
+│   └── Риски.xlsx
 │
 ├── 📂 task_description/          # Условие задачи от организаторов
-│   └── full_task.pdf
+│   ├── Правила проведения.pdf
+│   ├── КЕЙС 2023 СИБУР.pdf
+│   ├── КЕЙС 2023 СИБУР - оригинал.pdf
+│   └── CASE-IN_участник_инструкция.pdf
 │
 ├── 📂 presentation/              # Презентация для защиты проекта
-│   └── case_presentation.pptx
+│   ├── CASE-IN Сибур 2023.pptx
+│   └── CASE-IN Сибур 2023.pdf
 │
 ├── 📂 report/                    # Доклад/аналитический отчёт
-│   └── final_report.docx
+│   ├── CASE-IN Сибур 2023 Аннотация.docx
+│   └── CASE-IN Сибур 2023 Аннотация.pdf
 │
 ├── 📂 references/                # Использованные источники
-│   ├── strategy_plan_ko.pdf
-│   └── industry_standards.pdf
+│   ├── SIBUR.pdf
+│   ├── 12. К. Вернигоров. СИБУР ПолиЛаб.pdf
+│   └── Финансовый отчет 2023.pdf
 │
 └── README.md                     # Этот файл
 ```
